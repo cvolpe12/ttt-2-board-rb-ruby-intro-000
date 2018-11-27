@@ -10,3 +10,9 @@ greeting
 
 answer = "flamboyance"
 puts "A group of flamingos is called a #{answer}."
+
+def stylish_chef
+  best_hairstyle = "Guy Fieri"
+  return "Martha Stewart"
+  "Guy Fieri"
+end
